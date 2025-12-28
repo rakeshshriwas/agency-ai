@@ -8,7 +8,7 @@ import OurWork from "./components/OurWork";
 import Team from "./components/Team";
 import ReachOut from "./components/ReachOut";
 import { Toaster } from "react-hot-toast";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 
 function App() {
   const [theme, setTheme] = useState(
